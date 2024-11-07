@@ -1,4 +1,4 @@
-# Assignment 1: Student-Course Application
+# Assignment 1: Student-Course Application API
 
 ## Project Overview
 This project is a Student-Course Application API that allows users to manage students and courses. It supports functionalities like retrieving all students or courses, retrieving a 
