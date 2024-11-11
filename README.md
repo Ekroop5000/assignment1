@@ -18,7 +18,7 @@ student by ID, and adding a new course.
 - If you want to clone the repository, you can do so, using the following command: git clone https://github.com/N01632322/assignment1.git
 - Then, navigate to the project directory, using the following command: cd assignment1
 - Then, you have to install all of the dependencies, including the "node_modules" folder that contains all of the contents, using the following command: npm install
-- Then, last, but not least, run the application, using the following command: node app.js
+- Then, last but not least, run the application, using the following command: node app.js
 
 ## API Endpoints
 ### Students
