@@ -9,7 +9,7 @@ student by ID, and adding a new course.
 - Retrieve a specific student by their unique ID.
 - Add a new course with details like ID, name, department, and status (open/closed).
 
-## Technologies Used
+## Technologies and Tools Used
 - **Node.js** with **Express** for creating the server and API endpoints.
 - **Git** and **GitHub** for version control.
 - **Postman** or **curl** for testing API endpoints.
